@@ -1,0 +1,11 @@
+
+[*]
+indent_style = space
+
+[*.{go}]
+indent_size = 4
+indent_style = tab
+
+[Makefile]
+indent_size = 4
+indent_style = tab
